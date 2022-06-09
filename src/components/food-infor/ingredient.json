@@ -1,0 +1,23 @@
+{
+  "collectionName": "components_food_infor_ingredients",
+  "info": {
+    "displayName": " ingredient",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "Name": {
+      "type": "string"
+    },
+    "Discription": {
+      "type": "richtext"
+    },
+    "Picture": {
+      "allowedTypes": [
+        "images"
+      ],
+      "type": "media",
+      "multiple": false
+    }
+  }
+}
